@@ -1,8 +1,8 @@
 package protocolo_colaborativo;
 
 public class Coche {
-    private String marca;
-    private String modelo;
+    String marca;
+    String modelo;
     static int contadorCoches = 0;//Atributo estatico de la clase
 
     public Coche(String marca, String modelo) {//Constructor parametrizado

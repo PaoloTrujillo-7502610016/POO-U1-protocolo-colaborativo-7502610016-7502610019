@@ -19,10 +19,10 @@ public class Matematicas {
     }
 
     public static void main(String[] args) {//Clase de prueba para llamar los metodos y mostrar los resultados:
-        System.out.println("Suma :"+suma(2,5));
-        System.out.println("Resta :"+resta(2,5));
-        System.out.println("Multiplicaion :"+multiplicacion(2,5));
-        System.out.println("Division :"+division(2,5));
+        System.out.println("Suma :"+suma(3,5));
+        System.out.println("Resta :"+resta(4,5));
+        System.out.println("Multiplicaion :"+multiplicacion(5,5));
+        System.out.println("Division :"+division(10,5));
     }
 
 }
