@@ -2,7 +2,7 @@ package protocolo_colaborativo;
 
 public class StaticIncorrecto {
 
-    String atributo;               //Codigo incorrecto
+    static String atributo;               //Codigo incorrecto
     //static String atributo;      //Codigo correcto
 
     public StaticIncorrecto() {//Constructor estandar
